@@ -47,7 +47,7 @@ Git/GitHub • Maltego • Chatbot via WhatsApp API
 ## 🎓 Formação Acadêmica
 
 **Bacharelado em Engenharia de Software**  
-Fametro — 2º Período (Noturno)
+Fametro — 3º Período (Noturno)
 
 ---
 
